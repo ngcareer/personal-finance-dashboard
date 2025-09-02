@@ -1,4 +1,4 @@
-📊 Personal Finance Dashboard
+# 📊 Personal Finance Dashboard
 
 Overview
 
