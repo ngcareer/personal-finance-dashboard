@@ -2,7 +2,7 @@
 
 Overview
 
-This project is a personal finance dashboard built using Python, Pandas, Matplotlib, and SQL. It uses real data exported from YNAB to track spending, income, debt payoff, and progress toward long-term financial goals (including closing the Seattle rent gap).
+This project is a personal finance dashboard built using Python, Pandas, Matplotlib, and SQL. It uses real data exported from YNAB to track spending, income, debt payoff, and progress toward long-term financial goals.
 
 The goal is twofold:
 1. Practical: Create a tool I actively use to monitor and improve my finances.
